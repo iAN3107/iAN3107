@@ -6,7 +6,6 @@ Hi there, I'm <a href="https://www.cut-ti.com/" target="_blank" rel="noreferrer"
 I'm a Backend Developer💻, Mobile Developer 📱 and Gamer 🖱️
 </h2> 
 
-<br>
 
 ### 🤝 Connect with me:
 
@@ -14,7 +13,7 @@ I'm a Backend Developer💻, Mobile Developer 📱 and Gamer 🖱️
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-ian-gameiro-francelino-7078271bb/"><img align="left" src="https://raw.githubusercontent.com/ian3107/ian3107/main/icons/linkedin.svg" alt="Linkedin" width="21px"/></a>
 <a href="https://www.cut-ti.com/"><img align="left" src="https://raw.githubusercontent.com/ian3107/ian3107/main/icons/web-link.png" alt="Linkedin" width="21px"/></a>
 
-<br><br>
+<br>
 
 ## 📈 GitHub Stats 
 
