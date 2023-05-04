@@ -11,7 +11,7 @@ I'm a Backend Developer💻, Mobile Developer 📱 and Gamer 🖱️
 
 <a href="https://instagram.com/vinian31"><img align="left" src="https://raw.githubusercontent.com/ian3107/ian3107/main/icons/instagram.svg" alt="Instagram" width="21px"/></a>
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-ian-gameiro-francelino-7078271bb/"><img align="left" src="https://raw.githubusercontent.com/ian3107/ian3107/main/icons/linkedin.svg" alt="Linkedin" width="21px"/></a>
-<a href="https://www.cut-ti.com/"><img align="left" src="https://raw.githubusercontent.com/ian3107/ian3107/main/icons/web-link.png" alt="Linkedin" width="21px"/></a>
+<a href="https://ian3107.github.io/"><img align="left" src="https://raw.githubusercontent.com/ian3107/ian3107/main/icons/web-link.png" alt="Linkedin" width="21px"/></a>
 
 <br>
 
